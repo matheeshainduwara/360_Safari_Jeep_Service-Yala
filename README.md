@@ -61,24 +61,7 @@ A modern, fully responsive website for 360° Safari Jeep Service, offering premi
    
 ```
 
-## 🔧 Installation & Setup
 
-1. **Clone or Download** the repository
-   ```bash
-   git clone https://github.com/yourusername/360-safari-website.git
-   ```
-
-2. **Folder Structure**
-   - Place all three files (`index.html`, `styles.css`, `script.js`) in the root folder
-   - Ensure the `Assests` folder with all images is in the same directory
-
-3. **Open the Website**
-   - Simply open `index.html` in any modern web browser
-   - No server setup required for basic viewing
-
-4. **For Development**
-   - Use VS Code with Live Server extension for hot reload
-   - Or use any local server (XAMPP, WAMP, etc.)
 
 ## 📱 Responsive Breakpoints
 
