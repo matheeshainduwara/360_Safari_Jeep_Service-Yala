@@ -1,191 +1,202 @@
-# 360° Safari Jeep Service - Yala National Park
+# 360° Safari Jeep Service - YALA
+## My First Website Project 🎉
 
-![Safari Website](https://img.shields.io/badge/Status-Live-success)
-![Responsive](https://img.shields.io/badge/Responsive-Yes-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
+![Website Status](https://img.shields.io/badge/Status-Complete-success)
+![First Project](https://img.shields.io/badge/Project-First%20Website-blue)
 
-## 📋 Description
+---
 
-A modern, fully responsive website for 360° Safari Jeep Service, offering premium wildlife safari experiences in Yala National Park, Sri Lanka. The website features stunning visuals, smooth animations, and an intuitive user interface designed to attract and convert visitors into customers.
+## 📖 About This Project
 
-### 🌟 Key Features
+This is my **first ever website** - a professional safari booking platform for 360° Safari Jeep Service in Yala National Park, Sri Lanka. Built from scratch using HTML, CSS, and JavaScript, this project represents my journey into web development.
 
-- **Immersive Hero Section** with automatic slideshow
-- **Responsive Design** that works flawlessly on all devices (desktop, tablet, mobile)
-- **Modern UI/UX** with smooth animations and transitions
-- **Interactive Gallery** with lightbox functionality
-- **Pricing Packages** clearly displayed with attractive cards
-- **Contact Information** with integrated Google Maps
-- **Mobile-First Approach** ensuring perfect mobile experience
-- **Fast Loading** with optimized images and code
-- **SEO Friendly** structure
+### 🎯 What I Built
 
-## 🎨 Design Highlights
+A fully functional website featuring:
+- **Interactive slideshow** on the homepage
+- **Responsive navigation** menu
+- **Detailed information** about Yala National Park
+- **Pricing packages** for different group sizes
+- **Photo gallery** showcasing wildlife encounters
+- **Contact section** with Google Maps integration
+- **Social media** links
 
-### Color Scheme
-- **Primary Green:** `#2C5F2D` - Represents nature and adventure
-- **Accent Gold:** `#F59E0B` - Premium and quality
-- **Secondary Green:** `#10B981` - Fresh and vibrant
-- **Clean Whites & Grays** - Modern and professional
+---
 
-### Modern Features
-- Gradient overlays
-- Glass-morphism effects
-- Smooth scroll animations
-- Hover effects on all interactive elements
-- Counter animations for statistics
-- Parallax scrolling effects
+## 🛠️ Technologies Used
 
-## 🚀 Technologies Used
-
-- **HTML5** - Semantic markup
-- **CSS3** - Modern styling with Flexbox and Grid
-- **JavaScript (Vanilla)** - Interactive functionality
+- **HTML5** - Structure and content
+- **CSS3** - Styling and animations
+- **JavaScript** - Interactivity (slideshow, smooth scrolling)
 - **Boxicons** - Icon library
-- **Google Maps API** - Location integration
+- **Google Maps** - Location embedding
 
-## 📁 Project Structure
+---
+
+## 📂 Project Structure
 
 ```
 360-safari-website/
 │
-├── index.html              # Main HTML file
-├── styles.css              # All styling (with media queries)
-├── script.js               # JavaScript functionality
-├── README.md               # Project documentation
+├── index.html          # Main HTML file (structure)
+├── styles.css          # All styling
+├── script.js           # JavaScript functionality
 │
-└── Assests/                # Image folder
-    ├── 1.png              # Logo
-    ├── 2.jpg - 5.jpg    # Hero slideshow images
-    ├── 6.jpg - 24.jpg     # Content images
-   
+└── Assests/            # Images folder
+    ├── 1.png          # Logo
+    ├── 2.webp - 58.webp   # Various images
+    └── (wildlife & safari photos)
 ```
-
-
-
-## 📱 Responsive Breakpoints
-
-- **Desktop:** 1024px and above
-- **Tablet:** 768px - 1024px
-- **Mobile:** 480px - 768px
-- **Small Mobile:** Below 480px
-
-## ✨ Features Breakdown
-
-### Navigation
-- Fixed navbar with blur effect
-- Smooth scroll to sections
-- Mobile hamburger menu
-- Active link highlighting
-
-### Hero Section
-- Full-screen slideshow (4 images)
-- Animated statistics counter
-- Call-to-action buttons
-- Scroll indicator
-
-### About Yala Section
-- Information cards with icons
-- Alternating image layouts
-- Quick facts with Google Maps integration
-- Hover effects on all cards
-
-### About Us Section
-- Company introduction
-- Feature highlights with icons
-- Vision & Mission cards
-- Values display
-
-### Packages Section
-- Half-day and full-day options
-- 4 pricing tiers per package
-- "Most Popular" and "Best Value" badges
-- Clear pricing structure
-- Book now buttons
-
-### Gallery Section
-- Masonry-style grid layout
-- Zoom effect on hover
-- Lightbox functionality (click to enlarge)
-- 24 wildlife photos
-
-### Contact Section
-- WhatsApp integration
-- Email contact
-- Physical address
-- Social media links
-- Interactive contact cards
-
-### Footer
-- Company information
-- Quick links
-- Contact details
-- Copyright notice
-
-## 🎯 Browser Support
-
-- ✅ Chrome (latest)
-- ✅ Firefox (latest)
-- ✅ Safari (latest)
-- ✅ Edge (latest)
-- ✅ Opera (latest)
-- ✅ Mobile browsers (iOS Safari, Chrome Mobile)
-
-## 📊 Performance Optimizations
-
-- Optimized CSS with efficient selectors
-- Lazy loading ready structure
-- Minimal JavaScript for fast execution
-- Compressed image recommendations
-- Efficient animations using CSS transforms
-
-## 🔄 Customization Guide
-
-### Changing Colors
-Edit the CSS variables in `styles.css`:
-```css
-:root {
-    --primary: #2C5F2D;        /* Main green */
-    --accent: #F59E0B;         /* Gold accent */
-    --secondary: #10B981;      /* Secondary green */
-}
-```
-
-## 📝 License
-
-This project is licensed under the MIT License - feel free to use it for your own projects.
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-## 🙏 Acknowledgments
-
-- Boxicons for icon library
-- Google Maps for location integration
-- Inspiration from modern travel websites
-
-## 📈 Future Enhancements
-
-- [ ] Online booking system
-- [ ] Customer testimonials section
-- [ ] Blog for safari tips
-- [ ] Multi-language support
-- [ ] Live chat integration
-- [ ] Payment gateway integration
-- [ ] Availability calendar
-
-## 🐛 Bug Reports
-
-Found a bug? Please open an issue with:
-- Description of the problem
-- Steps to reproduce
-- Expected behavior
-- Screenshots (if applicable)
-- Device/browser information
 
 ---
 
-**Made with ❤️ for wildlife enthusiasts and adventure seekers**
+## ✨ Features I Implemented
 
-*Last Updated: December 2025*
+### 1. **Homepage Hero Section**
+- Automatic image slideshow (changes every 3 seconds)
+- Small photo grid on the side
+- Welcome message with "Explore" button
+
+### 2. **About Yala Section**
+- Information cards about the national park
+- Location details box
+- Embedded Google Maps
+- Images with hover effects
+
+### 3. **About Us Section**
+- Company introduction
+- Vision and Mission boxes
+- Service highlights
+
+### 4. **Packages Section**
+- Two pricing tiers (Half-day and Full-day)
+- 4 group size options (1-6 persons)
+- Color-coded pricing boxes
+- Travel partner showcase
+
+### 5. **Gallery**
+- 24 wildlife photographs
+- Grid layout
+- Zoom effect on hover
+
+### 6. **Contact Section**
+- Phone/WhatsApp contact
+- Email address
+- Physical location
+- Social media links
+
+---
+
+## 🎨 Design Choices
+
+**Color Scheme:**
+- Primary: Green tones (#3b7917) - representing nature
+- Accent: Light greens (#87e416, #94e72e, #a3e750, #b5e977)
+- Text: White with black text-shadow for readability
+
+**Layout:**
+- Fixed navigation bar at the top
+- Full-width sections
+- Centered content
+- Rounded corners on images and boxes
+- Hover animations for interactivity
+
+---
+
+## 🚀 How to Run
+
+1. **Download** all files
+2. Make sure folder structure is:
+   ```
+   Your Folder/
+   ├── index.html
+   ├── styles.css
+   ├── script.js
+   └── Assests/ (with all .webp images)
+   ```
+3. **Double-click** `index.html` to open in browser
+4. **That's it!** No server needed.
+
+---
+
+## 📱 What I Learned
+
+While building this website, I learned:
+
+✅ How to structure HTML semantically  
+✅ CSS styling and layout techniques  
+✅ Creating responsive designs  
+✅ JavaScript for interactivity  
+✅ Working with images and optimization (.webp format)  
+✅ Implementing smooth scrolling  
+✅ Creating hover effects and transitions  
+✅ Embedding external content (Google Maps)  
+✅ Using icon libraries (Boxicons)  
+✅ Basic web development workflow  
+
+---
+
+## 🎓 Challenges I Faced
+
+1. **Image Slideshow** - Learning how to make images change automatically
+2. **Layout Positioning** - Getting elements to align properly
+3. **Responsive Design** - Making it work on different screen sizes
+4. **Hover Effects** - Creating smooth transitions
+5. **Color Coordination** - Choosing colors that work well together
+
+---
+
+## 🔮 Future Improvements
+
+If I continue this project, I would add:
+- [ ] Better mobile responsiveness
+- [ ] Online booking form
+- [ ] Image lightbox/modal for gallery
+- [ ] Customer testimonials
+- [ ] Loading animations
+- [ ] Contact form functionality
+- [ ] Multiple language support
+
+---
+
+## 📸 Screenshots
+
+**Homepage:** Full-width slideshow with welcome message  
+**About Section:** Information cards with images  
+**Packages:** Color-coded pricing boxes  
+**Gallery:** Grid of wildlife photos  
+**Contact:** Info boxes with social links  
+
+---
+
+## 📝 Notes
+
+- All images are in `.webp` format for better performance
+- Website works best on desktop browsers
+- Smooth scroll effect on navigation links
+- Slideshow automatically cycles through 4 images
+
+---
+
+## 👤 Contact
+
+**360° Safari Jeep Service - YALA**
+
+- **Phone:** +94 71 853 1267
+- **Email:** matheesha000@gmail.com
+- **Location:** 342/3 Udasgama Road, Thissamaharama, Sri Lanka
+
+---
+
+## 💭 Final Thoughts
+
+This was an exciting journey building my first website! While there's always room for improvement, I'm proud of what I created. This project taught me the fundamentals of web development and gave me confidence to build more complex projects in the future.
+
+**Status:** ✅ Project Complete  
+**Time Spent:** My first web development project  
+**Feeling:** Proud and ready to learn more! 🚀
+
+---
+
+*Built with ❤️ by a first-time web developer*  
+*Date: December 2024*
